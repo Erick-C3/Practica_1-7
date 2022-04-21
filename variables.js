@@ -7,7 +7,12 @@ var nombreMascotaPreferida = "toffee"; // string o cadena de caracteres o tipo d
 
 var estaLloviendo = false; // bool o boolean o booleano
 
-var cantBitconsPoseo = 0.000024; // float o decimal
+var cantBitcoinsPoseo = 0.000024; // float o decimal
+
+console.log( anioActual );
+console.log( nombreMascotaPreferida );
+console.log( estaLloviendo );
+console.log( cantBitconsPoseo );
 
 // terminamos la primer parte 
 
@@ -16,7 +21,7 @@ document.write(`
     <h4> año actual: ${ anioActual } </h4>
     <h4> nombre de mi mascota preferida: ${ nombreMascotaPreferida } </h4>
     <h4> esta lloviendo? true para si - false para no: ${ estaLloviendo } </h4>
-    <h4> mis bitcoins: ${ cantBitconsPoseo } BTC </h4>
+    <h4> mis bitcoins: ${ cantBitcoinsPoseo } BTC </h4>
 `);
 
 
