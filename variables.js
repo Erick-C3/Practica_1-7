@@ -9,7 +9,7 @@ var estaLloviendo = false; // bool o boolean o booleano
 
 var cantBitcoinsPoseo = 0.000024; // float o decimal
 
-console.log( anioActual );
+console.log( anioActual ); // imprime o le decimos que esriba nuestro programa en la consola
 console.log( nombreMascotaPreferida );
 console.log( estaLloviendo );
 console.log( cantBitconsPoseo );
