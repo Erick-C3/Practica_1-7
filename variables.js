@@ -1,6 +1,6 @@
 // var + nombre de variable + = + valor literal
 
-//primer practica
+//primer practica asdas
 var anioActual = 2022;//int o entero o integer
 
 var nombreMascotaPreferida = "toffee"; // string o cadena de caracteres o tipo de dato palabra
